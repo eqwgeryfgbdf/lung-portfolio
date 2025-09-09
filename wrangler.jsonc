@@ -1,6 +1,6 @@
 {
   // Cloudflare Worker name (shows in dashboard)
-  "name": "roylung-personal",
+  "name": "lungpage",
   // Use today's date for Workers runtime compatibility
   "compatibility_date": "2025-09-09",
   // Static assets mode: serve files from repo root

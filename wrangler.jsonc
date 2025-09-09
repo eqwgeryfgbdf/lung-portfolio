@@ -1,0 +1,12 @@
+{
+  // Cloudflare Worker name (shows in dashboard)
+  "name": "roylung-personal",
+  // Use today's date for Workers runtime compatibility
+  "compatibility_date": "2025-09-09",
+  // Static assets mode: serve files from repo root
+  "assets": {
+    "directory": ".",
+    // Ignore common non-site files if present
+    "binding": "__STATIC_CONTENT"
+  }
+}

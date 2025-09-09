@@ -2,6 +2,12 @@
 	"name": "lung-portfolio-static",
 	"compatibility_date": "2025-09-09",
 	"assets": {
-		"directory": "."
+		"directory": ".",
+		"exclude": [
+			".git/**",
+			".idea/**",
+			"site/**",
+			"tmpdist/**"
+		]
 	}
 }

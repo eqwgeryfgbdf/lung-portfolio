@@ -6,7 +6,6 @@
   // Static assets mode: serve files from repo root
   "assets": {
     "directory": ".",
-    // Ignore common non-site files if present
-    "binding": "__STATIC_CONTENT"
+    // assets-only Worker: no binding allowed
   }
 }

@@ -1,0 +1,432 @@
+{
+    "profile": {
+      "preferred_name": {
+        "value": "Roy",
+        "verified": true,
+        "source_note": "User Bio 指定 Preferred name: Roy"
+      },
+      "full_name": {
+        "value": "龍禹丞 (Yu-Cheng Lung)",
+        "verified": true,
+        "source_note": "User Knowledge Memories #1 多次自稱"
+      },
+      "location": {
+        "value": "Taipei, Taiwan",
+        "verified": true,
+        "source_note": "User Bio 指定在台灣生活"
+      },
+      "timezone": {
+        "value": "Asia/Taipei (UTC+8)",
+        "verified": true,
+        "source_note": "System context 指定"
+      },
+      "role": {
+        "value": "資訊網路工程系 四年級（PBL 專班）",
+        "verified": true,
+        "source_note": "User Bio；Memories #1"
+      },
+      "goals": {
+        "value": ["申請國立研究所", "建立高品質個人履歷與知識庫"],
+        "verified": true,
+        "source_note": "User Bio 與多次陳述"
+      },
+      "style_preferences": {
+        "value": ["cute style", "neon", "cyber", "mystic", "高互動動畫", "技術感"],
+        "verified": true,
+        "source_note": "User profile 主題色與風格；對話偏好"
+      },
+      "language_policy": {
+        "value": "默認繁體中文，專有名詞附 English 原文；先將輸入轉英文再處理",
+        "verified": true,
+        "source_note": "User Bio 明確規則"
+      }
+    },
+    "seminars": [
+      {
+        "title": "Artificial intelligence vehicle guidance and parking system",
+        "path": "/Users/longyucheng/WebstormProjects/roylung-personal/研討會/Artificial intelligence vehicle guidance and parking system.pdf",
+        "type": "pdf",
+        "verified": true,
+        "source_note": "檔案存在於研討會資料夾"
+      },
+      {
+        "title": "Artificial intelligence vehicle guidance and parking system (duplicate/alt)",
+        "path": "/Users/longyucheng/WebstormProjects/roylung-personal/研討會/Artificial intelligence vehicle guidance and parking system 2.pdf",
+        "type": "pdf",
+        "verified": true,
+        "source_note": "檔案存在於研討會資料夾"
+      },
+      {
+        "title": "Charging pile frame to prevent the charging cable from falling off",
+        "path": "/Users/longyucheng/WebstormProjects/roylung-personal/研討會/Charging pile frame to prevent the charging cable from falling off.pdf",
+        "type": "pdf",
+        "verified": true,
+        "source_note": "檔案存在於研討會資料夾"
+      },
+      {
+        "title": "Charging pile frame to prevent the charging cable from falling off (duplicate/alt)",
+        "path": "/Users/longyucheng/WebstormProjects/roylung-personal/研討會/Charging pile frame to prevent the charging cable from falling off 2.pdf",
+        "type": "pdf",
+        "verified": true,
+        "source_note": "檔案存在於研討會資料夾"
+      },
+      {
+        "title": "IEEE (conference/journal related)",
+        "path": "/Users/longyucheng/WebstormProjects/roylung-personal/研討會/IEEE.pdf",
+        "type": "pdf",
+        "verified": true,
+        "source_note": "檔案存在於研討會資料夾"
+      },
+      {
+        "title": "VAMIS-AOT Visual Acuity Multimodel Interaction System for Adaptive Ocular Tesing",
+        "path": "/Users/longyucheng/WebstormProjects/roylung-personal/研討會/VAMIS-AOT Visual Acuity Multimodel Interaction System for Adaptive Ocular Tesing.docx",
+        "type": "docx",
+        "verified": true,
+        "source_note": "檔案存在於研討會資料夾"
+      },
+      {
+        "title": "WASN 發表證明",
+        "path": "/Users/longyucheng/WebstormProjects/roylung-personal/研討會/WASN發表證明.pdf",
+        "type": "pdf",
+        "verified": true,
+        "source_note": "檔案存在於研討會資料夾"
+      },
+      {
+        "title": "馬來西亞-論文",
+        "path": "/Users/longyucheng/WebstormProjects/roylung-personal/研討會/馬來西亞-論文.pdf",
+        "type": "pdf",
+        "verified": true,
+        "source_note": "檔案存在於研討會資料夾"
+      }
+    ],
+    "certifications": [
+      {
+        "title": "(ITE) 資訊專業人員鑑定-網路通訊專業人員",
+        "issuer": "財團法人中華民國電腦技能基金會",
+        "date_raw": "1140707",
+        "date_iso": "2025-07-07",
+        "path": "/Users/longyucheng/WebstormProjects/roylung-personal/證照/(ITE)資訊專業人員鑑定-網路通訊專業人員-1140707.jpg",
+        "type": "image",
+        "verified": true,
+        "source_note": "檔案存在於證照資料夾；日期依民國年換算"
+      },
+      {
+        "title": "(ITE) 資訊專業人員鑑定-網際網路服務與安全",
+        "issuer": "財團法人中華民國電腦技能基金會",
+        "date_raw": "1140525",
+        "date_iso": "2025-05-25",
+        "path": "/Users/longyucheng/WebstormProjects/roylung-personal/證照/(ITE)資訊專業人員鑑定-網際網路服務與安全-1140525.jpg",
+        "type": "image",
+        "verified": true,
+        "source_note": "檔案存在於證照資料夾；日期依民國年換算"
+      },
+      {
+        "title": "(ITE) 資訊專業人員鑑定-通訊網路概論",
+        "issuer": "財團法人中華民國電腦技能基金會",
+        "date_raw": "1140525",
+        "date_iso": "2025-05-25",
+        "path": "/Users/longyucheng/WebstormProjects/roylung-personal/證照/(ITE)資訊專業人員鑑定-通訊網路概論-1140525.jpg",
+        "type": "image",
+        "verified": true,
+        "source_note": "檔案存在於證照資料夾；日期依民國年換算"
+      },
+      {
+        "title": "TQC+ 物聯網智慧應用及技術 專業級",
+        "issuer": "財團法人中華民國電腦技能基金會",
+        "date_raw": "1111227",
+        "date_iso": "2022-12-27",
+        "path": "/Users/longyucheng/WebstormProjects/roylung-personal/證照/(TQC)物聯網智慧應用及技術-1111227.jpg",
+        "type": "image",
+        "level": "專業級",
+        "verified": true,
+        "source_note": "檔案存在於證照資料夾；日期依民國年換算"
+      },
+      {
+        "title": "241228 龍華-PCB業(下午梯) 證書",
+        "issuer": "TEEMA / TPCA",
+        "date_raw": "241228",
+        "date_iso": "2024-12-28",
+        "path": "/Users/longyucheng/WebstormProjects/roylung-personal/證照/241228龍華-PCB業(下午梯)-證書電子檔_龍禹丞.pdf",
+        "type": "pdf",
+        "level": "專業級",
+        "co_issuer": ["台灣嵌入式暨單晶片系統發展協會（TEMI）"],
+        "verified": true,
+        "source_note": "檔案存在於證照資料夾；發證單位依你提供更新"
+      }
+    ],
+    "competitions": [
+      {
+        "name": "AERC",
+        "evidence_files": [
+          "/Users/longyucheng/WebstormProjects/roylung-personal/競賽參加證明/AERC/A05 機器人向前衝-獎狀電子檔-18.pdf",
+          "/Users/longyucheng/WebstormProjects/roylung-personal/競賽參加證明/AERC/A05 機器人向前衝-獎狀電子檔-8.pdf",
+          "/Users/longyucheng/WebstormProjects/roylung-personal/競賽參加證明/AERC/A05機器人東奔西跑-獎狀電子檔-10.pdf",
+          "/Users/longyucheng/WebstormProjects/roylung-personal/競賽參加證明/AERC/A05機器人東奔西跑-獎狀電子檔-11.pdf",
+          "/Users/longyucheng/WebstormProjects/roylung-personal/競賽參加證明/AERC/A05機器人東奔西跑-獎狀電子檔-20.pdf",
+          "/Users/longyucheng/WebstormProjects/roylung-personal/競賽參加證明/AERC/A05機器人東奔西跑-獎狀電子檔-9.pdf",
+          "/Users/longyucheng/WebstormProjects/roylung-personal/競賽參加證明/AERC/B05 輪型機器人橫衝直撞獎狀-15.pdf",
+          "/Users/longyucheng/WebstormProjects/roylung-personal/競賽參加證明/AERC/B05 輪型機器人橫衝直撞獎狀-16.pdf",
+          "/Users/longyucheng/WebstormProjects/roylung-personal/競賽參加證明/AERC/B05-29.pdf",
+          "/Users/longyucheng/WebstormProjects/roylung-personal/競賽參加證明/AERC/B05-7.pdf",
+          "/Users/longyucheng/WebstormProjects/roylung-personal/競賽參加證明/AERC/B05-8.pdf",
+          "/Users/longyucheng/WebstormProjects/roylung-personal/競賽參加證明/AERC/C01 機器人循跡挑戰獎狀-2.pdf",
+          "/Users/longyucheng/WebstormProjects/roylung-personal/競賽參加證明/AERC/C04 機器人向前衝-獎狀電子檔-4.pdf",
+          "/Users/longyucheng/WebstormProjects/roylung-personal/競賽參加證明/AERC/C05 機器人向前衝獎狀-2.pdf",
+          "/Users/longyucheng/WebstormProjects/roylung-personal/競賽參加證明/AERC/C05 機器人向前衝獎狀-4.pdf",
+          "/Users/longyucheng/WebstormProjects/roylung-personal/競賽參加證明/AERC/C05 輪型機器人橫衝直撞-獎狀電子檔-3.pdf",
+          "/Users/longyucheng/WebstormProjects/roylung-personal/競賽參加證明/AERC/C05 輪型機器人橫衝直撞-獎狀電子檔-5.pdf",
+          "/Users/longyucheng/WebstormProjects/roylung-personal/競賽參加證明/AERC/C05 輪型機器人橫衝直撞-獎狀電子檔-6.pdf",
+          "/Users/longyucheng/WebstormProjects/roylung-personal/競賽參加證明/AERC/C06 自走車軌道齊步走-C06-11.pdf"
+        ],
+        "verified": true,
+        "source_note": "檔案存在於競賽參加證明/AERC"
+      },
+      {
+        "name": "E化系統創意競賽",
+        "evidence_files": [
+          "/Users/longyucheng/WebstormProjects/roylung-personal/競賽參加證明/E化系統創意競賽/team1_ai_sign_language.png",
+          "/Users/longyucheng/WebstormProjects/roylung-personal/競賽參加證明/E化系統創意競賽/工廠安全.pdf",
+          "/Users/longyucheng/WebstormProjects/roylung-personal/競賽參加證明/E化系統創意競賽/手語辨識.pdf"
+        ],
+        "verified": true,
+        "source_note": "檔案存在於競賽參加證明/E化系統創意競賽"
+      },
+      {
+        "name": "TIRT",
+        "evidence_files": [
+          "/Users/longyucheng/WebstormProjects/roylung-personal/競賽參加證明/TIRT/20230608_152557.jpg",
+          "/Users/longyucheng/WebstormProjects/roylung-personal/競賽參加證明/TIRT/參賽證明_A20231029D-30546.pdf"
+        ],
+        "verified": true,
+        "source_note": "檔案存在於競賽參加證明/TIRT"
+      },
+      {
+        "name": "大手攜小手",
+        "evidence_files": [
+          "/Users/longyucheng/WebstormProjects/roylung-personal/競賽參加證明/大手攜小手/第六屆大手攜小手_佳作.jpg"
+        ],
+        "verified": true,
+        "notes": "檔名顯示佳作，實際等第可再確認",
+        "source_note": "檔案存在於競賽參加證明/大手攜小手"
+      },
+      {
+        "name": "發明展 - 俄羅斯發明展",
+        "evidence_files": [
+          "/Users/longyucheng/WebstormProjects/roylung-personal/競賽參加證明/發明展/俄羅斯發明展/IMG_1860.JPG",
+          "/Users/longyucheng/WebstormProjects/roylung-personal/競賽參加證明/發明展/俄羅斯發明展/IMG_1862.JPG"
+        ],
+        "verified": true,
+        "source_note": "檔案存在於競賽參加證明/發明展/俄羅斯發明展"
+      },
+      {
+        "name": "發明展 - 馬來西亞發明展",
+        "evidence_files": [
+          "/Users/longyucheng/WebstormProjects/roylung-personal/競賽參加證明/發明展/馬來西亞發明展/發明展-馬來西亞-獎狀.pdf"
+        ],
+        "verified": true,
+        "source_note": "檔案存在於競賽參加證明/發明展/馬來西亞發明展"
+      },
+      {
+        "name": "發明展 - 高雄發明展",
+        "evidence_files": [
+          "/Users/longyucheng/WebstormProjects/roylung-personal/競賽參加證明/發明展/高雄發明展/獎狀.pdf",
+          "/Users/longyucheng/WebstormProjects/roylung-personal/競賽參加證明/發明展/高雄發明展/高雄發明展-1.jpg",
+          "/Users/longyucheng/WebstormProjects/roylung-personal/競賽參加證明/發明展/高雄發明展/高雄發明展-2.jpg"
+        ],
+        "verified": true,
+        "source_note": "檔案存在於競賽參加證明/發明展/高雄發明展"
+      },
+      {
+        "name": "綠點子創新競賽",
+        "evidence_files": [
+          "/Users/longyucheng/WebstormProjects/roylung-personal/競賽參加證明/綠點子創新競賽/綠點子_獎狀.pdf"
+        ],
+        "verified": true,
+        "source_note": "檔案存在於競賽參加證明/綠點子創新競賽"
+      },
+      {
+        "name": "黑客松-技職杯",
+        "evidence_files": [
+          "/Users/longyucheng/WebstormProjects/roylung-personal/競賽參加證明/黑客松-技職杯/2024_54好問題.pdf"
+        ],
+        "verified": true,
+        "source_note": "檔案存在於競賽參加證明/黑客松-技職杯"
+      },
+      {
+        "name": "黑客松-捷運盃",
+        "evidence_files": [
+          "/Users/longyucheng/WebstormProjects/roylung-personal/競賽參加證明/黑客松-捷運盃/黑客松-捷運盃.png"
+        ],
+        "verified": true,
+        "source_note": "檔案存在於競賽參加證明/黑客松-捷運盃"
+      }
+    ],
+    "awards": [
+      {
+        "name": "最佳論文獎 (Best Conference Paper Award)",
+        "project": "Vision-based Real-time Sign Spelling System for Cross-lingual Translation using Neural Models",
+        "organizer": "IEEE International Conference on Computation, Big-Data and Engineering (ICCBE)",
+        "date_iso": "2025-06-27",
+        "description": "在2025年6月27日至29日於馬來西亞檳城舉辦的ICCBE會議上獲得最佳會議論文獎。",
+        "additional_info": "同時獲得此會議的口頭發表證書。",
+        "citations": [378, 379, 380, 381, 382],
+        "verified": true,
+        "source_note": "User 提供資訊"
+      },
+      {
+        "name": "金牌獎 (Gold Medal)",
+        "project": "Charging pile frame to prevent the charging cable from falling off",
+        "organizer": "國際華沙發明展 (INTERNATIONAL WARSAW INVENTION SHOW, IWIS 2024)",
+        "date_iso": "2024-10-16",
+        "description": "於2024年10月16日在華沙舉辦的IWIS發明展中獲得金牌獎。",
+        "additional_info": "",
+        "verified": true,
+        "source_note": "User 提供資訊"
+      },
+      {
+        "name": "金牌獎 (Gold Medal)",
+        "project": "Artificial intelligence vehicle guidance and parking system",
+        "organizer": "國際華沙發明展 (INTERNATIONAL WARSAW INVENTION SHOW, IWIS 2024)",
+        "date_iso": "2024-10-16",
+        "description": "於2024年10月16日在華沙舉辦的IWIS發明展中獲得金牌獎。",
+        "additional_info": "",
+        "verified": true,
+        "source_note": "User 提供資訊"
+      }
+    ],
+    "presentations": [
+      {
+        "title": "植基於多模態視覺感知網路於即時語意建構之手語轉譯研究",
+        "venue": "第二十九屆行動計算研討會 (MC2025) / 第二十屆無線、隨意及感測網路研討會 (WASN 2025)",
+        "date": "2025",
+        "description": "於MC2025/WASN 2025研討會發表此篇論文。",
+        "evidence_file": "/Users/longyucheng/WebstormProjects/roylung-personal/研討會/WASN發表證明.pdf",
+        "verified": true,
+        "source_note": "檔案存在於研討會資料夾"
+      }
+    ],
+    "skills": {
+      "technical": {
+        "value": [
+          "Computer Vision (YOLOv11/YOLOv12-pose, MediaPipe)",
+          "AI/ML (XLSTM exploration, RAG)",
+          "Networking (Mikrotik RB5009, VLAN/NAT/Firewall/Cloudflare)",
+          "Virtualization (Proxmox VE cluster)",
+          "Homelab (Synology NAS, Dockerized services, AdGuard Home)",
+          "Web (Django MTV, React/Next.js experiments, Cloudflare Workers)",
+          "DevOps (Docker, Portainer, 1Panel, reverse proxy Lucky)"
+        ],
+        "verified": true,
+        "source_note": "Memories #2/#3/#7"
+      },
+      "soft": {
+        "value": ["文件整理與系統化", "競賽組織與對外窗口", "UI/UX 意識"],
+        "verified": true,
+        "source_note": "Memories #4/#5/#9"
+      },
+      "tools": {
+        "value": ["TaskMaster-AI", "Cursor IDE", "Mermaid/PlantUML", "Notion", "Canva"],
+        "verified": true,
+        "source_note": "Memories #5/#8/#9"
+      }
+    },
+    "projects_featured": [
+      {
+        "name": "Taipei Metro Smart Assistant / MRT Chatbot",
+        "role": "Architect / Integrator",
+        "tech_stack": ["TDX APIs", "Cloudflare", "Lucky reverse proxy", "custom MCP tools", "RAG"],
+        "status": "active",
+        "verified": true,
+        "source_note": "Memories #2(a)"
+      },
+      {
+        "name": "Discord BOT Management System (Social Cube / Dashboard)",
+        "role": "Django MTV developer",
+        "tech_stack": ["Django", "TaskMaster-AI", "plugins/roles mgmt"],
+        "status": "active",
+        "verified": true,
+        "source_note": "Memories #2(b)"
+      },
+      {
+        "name": "Sign-Language Recognition for Medical Care",
+        "role": "CV researcher",
+        "tech_stack": ["YOLOv11-pose/YOLOv12", "MediaPipe", "keypoints fusion", "XLSTM exploration"],
+        "status": "active",
+        "verified": true,
+        "source_note": "Memories #2(c), 多次討論"
+      },
+      {
+        "name": "Tanuki66 Food-Truck Digital Ordering & IoT",
+        "role": "Full-stack + IoT",
+        "tech_stack": ["Web", "Discord", "Google Forms/SurveyCake", "TastyIgniter"],
+        "status": "active",
+        "verified": true,
+        "source_note": "Memories #2(d)"
+      }
+    ],
+    "infrastructure": {
+      "homelab": {
+        "routers": ["Mikrotik RB5009 (RouterOS 7)"],
+        "virtualization": ["Proxmox VE (multi-node)"],
+        "storage": ["Synology NAS"],
+        "services": ["AdGuard Home", "Portainer", "phpMyAdmin", "n8n", "TastyIgniter", "1Panel"],
+        "domains": ["emelab.org", "mrt.emelab.org"],
+        "networking_focus": ["VLAN", "NAT", "Cloudflare DNS/SSL", "IP whitelist"],
+        "verified": true,
+        "source_note": "Memories #3"
+      }
+    },
+    "competitions_and_outputs": {
+      "events": [
+        "Taipei Metro Hackathon 2025",
+        "Presidential Hackathon",
+        "AI+STEM Smart Healthcare",
+        "MC/WASN 2025",
+        "InnoServe 等"
+      ],
+      "deliverables": ["PRD", "PPT", "Posters (A1/A3)", "Notion timelines", "Excel trackers", "Word/Markdown docs"],
+      "verified": true,
+      "source_note": "Memories #4"
+    },
+    "preferences": {
+      "branding": ["EMO Lab / EMO", "Tanuki66"],
+      "design": ["宮崎駿風", "Q-style avatars", "minimal tech black-white"],
+      "output_formats": ["Markdown", "JSON", "POML", "Mermaid/PlantUML", "Excel/VBA", "Word outlines", "Docker Compose", "CLI commands"],
+      "verified": true,
+      "source_note": "Memories #6/#8"
+    },
+    "contact": {
+      "email": {
+        "value": null,
+        "verified": false,
+        "source_note": "未提供公開 Email"
+      },
+      "socials": {
+        "github": { "value": null, "verified": false, "source_note": "未提供" },
+        "linkedin": { "value": null, "verified": false, "source_note": "未提供" },
+        "discord": { "value": null, "verified": false, "source_note": "未提供" }
+      }
+    },
+    "portfolio_site": {
+      "host": {
+        "value": "Cloudflare (Workers/Pages)",
+        "verified": true,
+        "source_note": "多次提及使用 Cloudflare 部署"
+      },
+      "template_in_use": {
+        "value": "DevPort HTML Template（正在客製化）",
+        "verified": true,
+        "source_note": "目前 index.html 範例顯示 DevPort 樣板"
+      }
+    },
+    "meta": {
+      "data_sources": [
+        "User Bio",
+        "User Knowledge Memories（近期多則）",
+        "目前開啟的 index.html 內容",
+        "本地資料夾：研討會/、證照/、競賽參加證明/"
+      ],
+      "privacy_note": "僅整理你主動提供之資訊；聯絡方式留空待你確認。",
+      "last_updated": "2025-09-09T14:00:00+08:00"
+    }
+  }

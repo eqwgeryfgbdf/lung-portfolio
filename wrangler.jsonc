@@ -5,7 +5,7 @@
   "compatibility_date": "2025-09-09",
   // Static assets mode: serve files from repo root
   "assets": {
-    "directory": ".",
+    "directory": "."
     // assets-only Worker: no binding allowed
   }
 }
